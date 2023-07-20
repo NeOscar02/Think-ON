@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423984398539",
+    "project_id": "final-redsocial",
+    "storage_bucket": "final-redsocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423984398539:android:074ecce201b7f5eb795b4e",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalredsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423984398539-1lnd1t43jakckpboah71o7rc3hlhif2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVtkKdMu0D5nHJDaIlzyzPSf1e_iZ7zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423984398539-1lnd1t43jakckpboah71o7rc3hlhif2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

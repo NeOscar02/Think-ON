@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Thinking ON</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="hola_bienvenido_de_nuevo">Hola, bienvenido de nuevo:</string>
+    <string name="que_es_lo_que_piensas_hoy">¿Que es Lo que piensas hoy?:</string>
+    <string name="preparando_todo">Preparando todo</string>
+    <string name="refrescar">Refrescar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="facebook_application_id" translatable="false">1339852706463469</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1339852706463469</string>
+</resources>
